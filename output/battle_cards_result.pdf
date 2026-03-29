@@ -1,0 +1,38 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 452 >> stream
+BT
+/F1 12 Tf
+72 760 Td (Battle Cards Agent Run Result) Tj
+0 0 Td
+72 742 Td () Tj
+0 0 Td
+72 724 Td (Run timestamp: 2026-03-25 10:14 UTC) Tj
+0 0 Td
+72 706 Td (Status: Agent files were not found in this repository.) Tj
+0 0 Td
+72 688 Td (Action taken: Generated this PDF status report.) Tj
+0 0 Td
+72 670 Td () Tj
+0 0 Td
+72 652 Td (If you expected a specific agent, add its code/config to this repo) Tj
+0 0 Td
+72 634 Td (and rerun this script.) Tj
+0 0 Td
+ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000744 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+814
+%%EOF
