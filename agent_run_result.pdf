@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 702 >> stream
+BT
+/F1 11 Tf
+50 780 Td
+(AI Oil Articles Agent - Manual Run Result) Tj
+0 -16 Td
+(Date \(UTC\): 2026-03-30 11:35:05) Tj
+0 -16 Td
+(Recipient: rataganov78@gmail.com) Tj
+0 -16 Td
+(SMTP: 127.0.0.1:1025 \(local debug server\)) Tj
+0 -16 Td
+(Feed: sample_feed.xml \(offline\)) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Execution output:) Tj
+0 -16 Td
+(Done. Sent 2 article\(s\) to email.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Articles included in sent message:) Tj
+0 -16 Td
+(1\) https://example.com/article-1) Tj
+0 -16 Td
+(2\) https://example.com/article-2) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Status: SUCCESS \(local SMTP debug accepted the message\).) Tj
+0 -16 Td
+(Note: External Gmail delivery requires real SMTP credentials/network.) Tj
+ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1064
+%%EOF
